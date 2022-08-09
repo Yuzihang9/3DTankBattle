@@ -1,0 +1,4 @@
+repository "3D坦克大战@ssl://superyzh00000@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
